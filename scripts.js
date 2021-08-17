@@ -1,10 +1,11 @@
+/*
 $("#alap").on('click', () => {
     beírtSzin=#inputMezo.value
     console.log (input.value)
     $("#inputMezo").css('background-color', 'input.value')
 }
 );
-
+*/
 
 
 
